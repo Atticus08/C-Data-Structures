@@ -1,0 +1,8 @@
+- __bin__: The output executables go here, both for the app and for any tests and spikes.
+- __build__: This folder contains all object files, and is removed on a clean.
+- __doc__: Any notes, like assembly notes and configuration files should go here. 
+- __include__: All project header files. 
+- __lib__: Any libs that get compiled by the project, third party or any needed in development. 
+- __spike__: Smaller classes or files to test ideas, and keep them around for future reference. They go here, where they do not dilute the real application’s files
+- __src__: The application and only the application’s source files.
+- __test__: All test code files.
