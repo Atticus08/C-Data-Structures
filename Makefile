@@ -9,7 +9,7 @@ SRCDIR := src
 BUILDDIR := build
 
 # Location of executable file
-TARGET := bin/Sorting
+TARGET := bin/Testing
 
 SRCEXT := cpp
 SOURCES := $(shell find $(SRCDIR) -type f -name *.$(SRCEXT))
